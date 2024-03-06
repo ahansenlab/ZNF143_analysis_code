@@ -1,0 +1,20 @@
+name: genomics_analysis
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - seaborn
+  - scipy
+  - tqdm
+  - coolbox
+  - cooler
+  - bioframe
+  - pygenometracks
+  - pip:
+    - cooltools
+    - coolpuppy

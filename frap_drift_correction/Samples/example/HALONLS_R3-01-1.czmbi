@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiImageDocument version="1.0">
+  <Grouping>
+    <AcquisitionBlocks>
+      <AcquisitionBlock>
+        <Name />
+        <Blocks></Blocks>
+      </AcquisitionBlock>
+      <AcquisitionBlock>
+        <Name />
+        <Blocks>0</Blocks>
+      </AcquisitionBlock>
+      <AcquisitionBlock>
+        <Name />
+        <Blocks>1</Blocks>
+      </AcquisitionBlock>
+    </AcquisitionBlocks>
+    <MergedTotalT>
+      <MergedTBlock BIndex="0" SizeT="30" />
+      <MergedTBlock BIndex="1" SizeT="159" />
+    </MergedTotalT>
+  </Grouping>
+  <Documents>
+    <Document>HALONLS_R3-01-1_AcquisitionBlock1.czi\HALONLS_R3-01-1_AcquisitionBlock1_pt1.czi</Document>
+    <Document>HALONLS_R3-01-1_AcquisitionBlock2.czi\HALONLS_R3-01-1_AcquisitionBlock2_pt2.czi</Document>
+  </Documents>
+</MultiImageDocument>

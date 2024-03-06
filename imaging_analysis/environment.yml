@@ -1,0 +1,16 @@
+name: imaging_analysis
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - seaborn
+  - scipy
+  - tqdm
+  - scikit-image
+  - pip:
+    - saspt
