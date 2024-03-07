@@ -32,4 +32,10 @@ The following lists give the included scripts with their functions:
 
 #### Jupyter notebooks
 - `fast_spt_analysis` : This jupyter notebook was used to analyze the fast spt data. 
-- `frap_analysis` : This jupyter notebook was used to analyze the FRAP data. 
+- `frap_analysis` : This jupyter notebook was used to analyze the FRAP data.
+
+# Tracking for SPT data
+To generate tracks for the SPT data, the `quot` package was installed and setup as described here: https://github.com/alecheckert/quot/tree/master. The following command and parameters were used:
+```
+quot-track -o [track_outputs] [input_dir] tracking_config.toml
+```
