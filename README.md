@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/768283056.svg)](https://doi.org/10.5281/zenodo.14056922)
+
 # Putative Looping Factor ZNF143/ZFP143 is an Essential Transcriptional Regulator with No Looping Function
 
 This github repository contains the code used for analysis in the paper "Putative Looping Factor ZNF143/ZFP143 is an Essential Transcriptional Regulator with No Looping Function". Code is provided either in the form of Python scripts or as Jupyter notebooks to be run in conda environments containing the required packages.
