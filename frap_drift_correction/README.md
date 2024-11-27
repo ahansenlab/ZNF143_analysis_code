@@ -2,7 +2,7 @@
 FRAP Analysis is a Python gui which enables analysis of FRAP data. Currently, FRAP Analysis is optimized for circle FRAP. It implements background subtraction, photobleaching correction, and drift correction. Additionally, it implements circle FRAP models from Axelrod et al. 1976, Soumpasis et al. 1983, Sprague et al. 2004, and Mueller et al. 2008. 
 
 ## Installation:
-1. Clone the repository:
+1. Clone the repository.
 
 2. Create a `conda` environment for `FRAP_Analysis`. (If you don't already have it, you'll need `conda`: https://docs.conda.io/en/latest/miniconda.html.) Navigate to the top-level `FRAP_Analysis` directory and run 
 
